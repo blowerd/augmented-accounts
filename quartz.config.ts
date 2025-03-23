@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.augmentedapprentice.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fdfcfb",
+          lightgray: "#e4e3e1",
+          gray: "#bababa",
+          darkgray: "#676767",
+          dark: "#333333",
+          secondary: "#aad2ba",     // Soft mint
+          tertiary: "#ffc6b5",      // Blush coral
+          highlight: "rgba(170, 210, 186, 0.2)",
+          textHighlight: "#f6e05e88", // Yellow marker
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#232425",
+          lightgray: "#3e3d3b",
+          gray: "#787878",
+          darkgray: "#cccccc",
+          dark: "#eeeeee",
+          secondary: "#c2f0df",     // Soft aqua
+          tertiary: "#ffe4dc",      // Light peach
+          highlight: "rgba(255, 204, 204, 0.15)",
+          textHighlight: "#d1d10088",
         },
       },
     },
