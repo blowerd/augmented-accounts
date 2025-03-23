@@ -1,38 +1,30 @@
 ---
-title: "Augmented Apprentice"
-description: "Curious explorations in soft robotics, creative technology, and everyday magic."
+title: "Welcome"
+description: "Sketches, robotics, and creative tech—documented with heart."
+cssClasses: ["homepage"]
 ---
 
-# 👋 Hello, Traveler
+# 👋 Welcome to My Digital Workshop
 
-Welcome to my digital workshop, where code meets craft and experiments come to life. I'm on a year-long journey to build creative and human-centered technology, blending:
-
-- 🤖 Soft & Social Robotics  
-- 🧵 Wearable Tech & Conductive Textiles  
-- 🧠 AI, Interaction Design, and XR  
-- ✏️ Sketching, Making, and Tinkering
+This site is a home for thoughtful tinkering and visual storytelling. Explore my work and notes below:
 
 ---
 
-## 🔍 Where to Start
+### 🔧 Projects & Prototypes
+- 🤖 [Robotics](/robotics): Soft and social robotics projects  
+- 🧵 [Wearables](/wearables): Conductive textiles and e-textile experiments  
+- 🎮 [XR](/xr): Immersive experiments and augmented interaction design  
 
-- 📝 [Project Logs](projects/)
-- 🎨 [Sketches](sketches/)
-- 🔧 [Build Diaries](build-logs/)
-- 🌐 [Renders](renders/)
-- 📚 [Meta Notes & Workflow](meta/)
-- 👤 [About Me](about)
+### ✏️ Sketches & Design
+- ✏️ [Sketches](/sketches): Daily drawings, visual ideation, concept art  
+- 🗺️ [Ideation](/ideation): Brainstorms, thumbnails, and playful explorations  
+- 🎨 [Renders](/renders): Visual renders from Blender and 3D mockups  
 
----
-
-## 💬 Why I'm Building This
-
-To learn boldly.  
-To create meaningfully.  
-To explore joyfully.  
-And maybe, to help others do the same.
+### 📚 Reference & Systems
+- 📘 [UX](/ux): UX case studies, data notes, and usability insights  
+- ⚙️ [Meta](/meta): My thinking around process, note-taking, and systems  
 
 ---
 
-Thanks for stopping by.  
-Let’s build something strange and wonderful.  
+> “Create boldly. Document kindly. Build joyfully.”  
+> — Augmented Apprentice Manifesto
